@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>vshader1.glsl</file>
+        <file>fshader2.glsl</file>
+        <file>vgouraud.glsl</file>
+        <file>fgouraud.glsl</file>
+        <file>vphong.glsl</file>
+        <file>fphong.glsl</file>
+        <file>fflat.glsl</file>
+        <file>vflat.glsl</file>
+        <file>fnormal.glsl</file>
+        <file>vnormal.glsl</file>
+    </qresource>
+    <qresource prefix="/models">
+        <file>cube.off</file>
+        <file>axis.off</file>
+    </qresource>
+</RCC>
