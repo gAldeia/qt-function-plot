@@ -1,5 +1,7 @@
 # qt-function-plot
 
+![](example.gif)
+
 Projeto final da disciplina de computação gráfica na Universidade Federal do ABC.
 
 O projeto é um programa de plotagem de funções de duas variáveis utilizando pontos em um intervalo definido. A aplicação conta com 6 funções de exemplo.
